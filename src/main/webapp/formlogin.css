@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";@charset "ISO-8859-1";
+
+/* div{
+	width: 600px;
+	height: 600px;
+	text-align: center;
+	border-radius: 10px;
+	border: 1px solid grey;
+} */
+
+form{
+	top: 50%;
+	margin: auto;
+	width: 600px;
+	height: 400px;
+	text-align: center;
+	border-radius: 10px;
+	border: 1px solid grey;
+
+	
+}
+
+h2{
+	color: #868787;
+	font-family: sans-serif;
+}
+
+input {
+	width: 210px;
+	height: 40px;
+	display: block;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding-left: 20px;
+	margin: auto auto 10px auto
+}
+
+button {
+	width: 200px;
+	display: block;
+	height: 40px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: none;
+	background-color: #45a049;
+	color: white;
+	margin: auto auto 10px auto;
+	cursor: pointer;
+}
+
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
